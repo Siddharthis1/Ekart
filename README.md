@@ -1,2 +1,2 @@
 # Ekart
-#Hello guys welcome to this project if you want to see the full working project better to click on ekart.jar(dist file))
+This is the project that I made as my Class 12th Project.
